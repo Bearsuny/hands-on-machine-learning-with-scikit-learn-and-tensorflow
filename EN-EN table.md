@@ -186,3 +186,130 @@ combining in such a way as to enhance or emphasize the qualities of each other o
 
 ### Chapter 2 End-to-End Machine Learning Project
 
+#### census
+
+an official count or survey of a population, typically recording various details of individuals.
+
+#### asynchronous
+
+not going at the same rate and exactly together with something else, in particular.
+
+#### stale
+
+(of food) no longer fresh and pleasant to eat; hard, musty, or dry.
+
+#### multivariate
+
+involving two or more variable quantities.
+
+#### deviation
+
+the action of departing from an established course or accepted standard.
+
+#### notion
+
+a conception of or belief about something.
+
+#### orthogonal
+
+(of variates) statistically independent.
+
+#### neglect
+
+the state or fact of being uncared for.
+
+#### exponential
+
+of or expressed by a mathematical exponent.
+
+#### precede
+
+come before (something) in time.
+
+#### credential
+
+a qualification, achievement, personal quality, or aspect of a person's background, typically when used to indicate that they are suitable for something.
+
+#### schema
+
+a representation of a plan or theory in the form of an outline or model.
+
+#### dispersed
+
+distribute or spread over a wide area.
+
+#### percentile
+
+each of the 100 equal groups into which a population can be divided according to the distribution of values of a particular variable.
+
+#### extend
+
+cause to cover a larger area; make longer or wider.
+
+#### prone
+
+likely to or liable to suffer from, do, or experience something, typically something regrettable or unwelcome.
+
+#### stumble
+
+trip or momentarily lose one's balance; almost fall.
+
+#### permutation
+
+a way, especially one of several possible variations, in which a set or number of things can be ordered or arranged.
+
+#### coarse
+
+rough or loose in texture or grain.
+
+#### stratum
+
+a layer or a series of layers of rock in the ground.
+
+#### skew
+
+neither parallel nor at right angles to a specified or implied line; askew; crooked.
+
+#### continuous
+
+forming an unbroken whole; without interruption.
+
+#### discrete
+
+individually separate and distinct.
+
+#### stratify
+
+form or arrange into strata.
+
+#### proximity
+
+nearness in space, time, or relationship.
+
+#### coefficient
+
+a numerical or constant quantity placed before and multiplying the variable in an algebraic expression (e.g., 4 in 4x y )
+
+#### quirk
+
+a peculiar behavioral habit.
+
+#### identify
+
+establish or indicate who or what (someone or something) is.
+
+#### logarithm
+
+a quantity representing the power to which a fixed number (the base) must be raised to produce a given number.
+
+#### mileage
+
+a number of miles traveled or covered.
+
+#### seamless
+
+(of a fabric or surface) smooth and without seams or obvious joins.
+
+#### subtract
+
+take away (a number or amount) from another to calculate the difference.
