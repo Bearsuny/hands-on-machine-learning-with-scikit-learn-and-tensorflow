@@ -14,7 +14,7 @@ very great in amount, scale, or intensity.
 
 intense and eager enjoyment, interest, or approval.
 
-####  conquer
+#### conquer
 
 overcome and take control of (a place or people) by use of military force.
 
@@ -111,4 +111,78 @@ consecutive
 #### penalty
 
 a punishment imposed for breaking a law, rule, or contract.
+
+#### scratch
+
+a mark or wound made by scratching.
+
+#### autonomous
+
+(of a country or region) having self-government, at least to a significant degree.
+
+#### conversely
+
+introducing a statement or idea that reverses one that has just been made or referred to.
+
+#### inertia
+
+a tendency to do nothing or to remain unchanged.
+
+#### promptly
+
+with little or no delay; immediately.
+
+#### identical
+
+similar in every detail; exactly alike.
+
+#### tweak
+
+improve (a mechanism or system) by making fine adjustments to it.
+
+#### scatter
+
+a small, dispersed amount of something.
+
+#### toddler
+
+a young child who is just beginning to walk.
+
+#### moderately
+
+to a certain extent; quite; fairly.
+
+#### flaw
+
+blemished, damaged, or imperfect in some way.
+
+#### funk
+
+a state of depression.
+
+#### outlier
+
+a person or thing situated away or detached from the main body or system.
+
+#### subtle
+
+(especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.
+
+#### constrain
+
+severely restrict the scope, extent, or activity of.
+
+#### prone
+
+likely to or liable to suffer from, do, or experience something, typically something regrettable or unwelcome.
+
+#### hesitate
+
+pause before saying or doing something, especially through uncertainty.
+
+#### complementary
+
+combining in such a way as to enhance or emphasize the qualities of each other or another.
+
+### Chapter 2 End-to-End Machine Learning Project
 
