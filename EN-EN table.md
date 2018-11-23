@@ -313,3 +313,24 @@ a number of miles traveled or covered.
 #### subtract
 
 take away (a number or amount) from another to calculate the difference.
+
+#### essentially
+
+used to emphasize the basic, fundamental, or intrinsic nature of a person, thing, or situation.
+
+#### consecutive
+
+following continuously.
+
+#### degradation
+
+the condition or process of degrading or being degraded.
+
+#### stale
+
+(of food) no longer fresh and pleasant to eat; hard, musty, or dry.
+
+#### preparation
+
+the action or process of making ready or being made ready for use or consideration.
+
