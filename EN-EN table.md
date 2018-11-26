@@ -334,3 +334,13 @@ the condition or process of degrading or being degraded.
 
 the action or process of making ready or being made ready for use or consideration.
 
+### Chapter 3 Classification
+
+#### tackle
+
+make determined efforts to deal with (a problem or difficult task).
+
+#### acronym
+
+an abbreviation formed from the initial letters of other words and pronounced as a word (e.g., ASCII)
+
