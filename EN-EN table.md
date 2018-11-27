@@ -344,3 +344,14 @@ make determined efforts to deal with (a problem or difficult task).
 
 an abbreviation formed from the initial letters of other words and pronounced as a word (e.g., ASCII)
 
+#### concise
+
+giving a lot of information clearly and in a few words; brief but comprehensive.
+
+#### harmonic
+
+of or relating to a harmonic progression.
+
+#### bumpy
+
+(of a surface) uneven, with many patches raised above the rest.
